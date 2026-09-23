@@ -2,5 +2,5 @@
 #   ожидание — точный HTTP-код (200) или "up" = любой ответ, кроме 5xx и отказа соединения.
 stage.penaltycrash.com   /health  200
 api.playmaxwall.com      /        up
-demo.goldminercrash.com  /health  200
+demo.goldminercrash.com  /health  201
 admin.goldminercrash.com /        200
