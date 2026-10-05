@@ -2,5 +2,5 @@ admin.goldminercrash.com/ UP 1790165654 0
 api.playmaxwall.com/ UP 1790165654 0
 api.playmaxwall.com/healthz UP 1790662499 0
 demo.goldminercrash.com/health UP 1790182407 0
-heartbeat 2026-09-28
+heartbeat 2026-10-05
 stage.penaltycrash.com/health UP 1790165654 0
