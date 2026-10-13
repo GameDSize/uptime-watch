@@ -3,4 +3,4 @@ api.playmaxwall.com/ UP 1790165654 0
 api.playmaxwall.com/healthz UP 1790662499 0
 demo.goldminercrash.com/health UP 1790182407 0
 heartbeat 2026-10-12
-stage.penaltycrash.com/health DOWN 1791924395 1791924395
+stage.penaltycrash.com/health DOWN 1791924395 1791935940
